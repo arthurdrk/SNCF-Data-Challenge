@@ -18,7 +18,7 @@ Chaque ligne correspond à un arrêt de train et contient des informations sur l
 ## 🛠️ Techniques utilisées  
 
 - Utilisation de la librairie AutoML autogluon
-- FasAI NeuralNetwork classifier
+- FastAI NeuralNetwork classifier
 
 ## 📎 Liens utiles  
 - [Challenge sur ENS Data](https://challengedata.ens.fr/participants/challenges/166/)  
