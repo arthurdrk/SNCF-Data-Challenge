@@ -1,6 +1,6 @@
 # SNCF Data Challenge  
 
-Ce projet participe au **SNCF Data Challenge** organisé par l'ENS Paris, dont l'objectif est d'améliorer la précision des prévisions de temps d'attente des trains Transilien.  
+Ce projet est ma participation au sujet SNCF Transilien du **Challenge Data 2025** organisé par l'ENS Paris, l'institut Louis Bachelier et le Collège de France. L'objectif est d'améliorer la précision des prévisions de temps d'attente des trains SNCF Transilien.  
 
 ## 📌 Objectif  
 Prédire l'écart entre le temps d'attente théorique et réel d'un train à une station donnée, en utilisant des données historiques.  
