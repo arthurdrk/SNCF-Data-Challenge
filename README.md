@@ -20,4 +20,4 @@ Chaque ligne correspond à un arrêt de train et contient des informations sur l
 - FastAI NeuralNetwork classifier
 
 ## 📎 Liens utiles  
-- [Challenge sur ENS Data](https://challengedata.ens.fr/participants/challenges/166/)  
+- [Site des Challenges ENS](https://challengedata.ens.fr/participants/challenges/166/)  
