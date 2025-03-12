@@ -11,7 +11,6 @@ Les données sont constituées de :
 - **x_train.csv** : données d'entraînement  
 - **y_train.csv** : valeurs cibles  
 - **x_test.csv** : données de test  
-- **y_sample.csv** : exemple de soumission  
 
 Chaque ligne correspond à un arrêt de train et contient des informations sur les horaires théoriques/réels, la station et des historiques de passage.  
 
