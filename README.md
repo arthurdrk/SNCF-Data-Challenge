@@ -8,10 +8,9 @@ Prédire l'écart entre le temps d'attente théorique et réel d'un train à une
 
 ## 📂 Données  
 Les données sont constituées de :  
-- **x_train.csv** : données d'entraînement  
-- **y_train.csv** : valeurs cibles  
-- **x_test.csv** : données de test  
-- **y_sample.csv** : exemple de soumission  
+- **x_train_final.csv** : données d'entraînement  
+- **y_train_final_j5KGWWK.csv** : valeurs cibles  
+- **x_test_final.csv** : données de test  
 
 Chaque ligne correspond à un arrêt de train et contient des informations sur les horaires théoriques/réels, la station et des historiques de passage.  
 
@@ -21,4 +20,4 @@ Chaque ligne correspond à un arrêt de train et contient des informations sur l
 - FastAI NeuralNetwork classifier
 
 ## 📎 Liens utiles  
-- [Challenge sur ENS Data](https://challengedata.ens.fr/participants/challenges/166/)  
+- [Site des Challenges ENS](https://challengedata.ens.fr/participants/challenges/166/)  
